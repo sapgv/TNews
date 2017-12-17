@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NewsTableViewController.showPost(at:):NewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewController.viewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsTableViewController.tableView(_:cellForRowAt:):NewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableView.dequeueReusableCell(withIdentifier: CellType.describing, for: indexPath)">
+            </PersistentString>
+            <PersistentString
+               value = "CellType.describing">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsTableViewController.tableView(_:numberOfRowsInSection:):NewsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.numberOfPosts()">
+            </PersistentString>
+            <PersistentString
+               value = "viewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
